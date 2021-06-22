@@ -125,6 +125,8 @@ name {
   text-align: center;    
   bottom: 0px; 
   width: 100%;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px
 }
 
 .fade {
